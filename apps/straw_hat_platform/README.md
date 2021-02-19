@@ -1,0 +1,3 @@
+# StrawHatPlatform
+
+**TODO: Add description**

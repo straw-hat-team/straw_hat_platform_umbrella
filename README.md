@@ -1,0 +1,1 @@
+# StrawHatPlatform.Umbrella
